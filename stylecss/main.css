@@ -19,3 +19,20 @@ h2{
     margin-right: auto;
     font-weight: 300;
     margin-bottom: 50px;
+}
+.bg img{
+    float: left;
+    height: 8rem;
+    width: 6rem;
+   
+}
+.bg{
+    display: inline-block;
+    height: 8rem;
+    width: 30%;
+    background-color: #0F0E17;
+    margin-right: 20px;
+}
+h3,h4{
+    color:white;
+}
