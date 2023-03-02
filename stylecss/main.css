@@ -36,3 +36,33 @@ h2{
 h3,h4{
     color:white;
 }
+a{
+    color: #348CC7;
+}
+.nome{
+    width: 300px;
+    margin-left: auto;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.prof
+{
+    width:  300px;
+    margin-left: auto;
+    text-align:left ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.mail{
+    width: 300px;
+    margin-left: auto;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
+}
+.linea{
+    margin-bottom: 30px;
+    text-align: center;
+}
