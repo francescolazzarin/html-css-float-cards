@@ -25,10 +25,12 @@ h1{
 .card{
     width:32%;
     background-color: rgb(15,14,23);
+    height: 100px;
+    box-shadow: 3px 3px #888888;
 }
 .card img{
     width: 30%;
-
+    height:100%;
 }
 .clear_fix::after{
     content: "";
@@ -45,6 +47,7 @@ h1{
 }
 .info span:last-child{
     color:rgb(62,161,183);
+    display: block;
 }
 .card_2{
     margin: 0 10px 0 10px;
